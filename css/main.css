@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+    color:rgb(24, 18, 18)
+}
+
+table , tr, th, td , caption {
+    border : 1px  solid rgb(36, 30, 30) ;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding : 0.5rem ;
+}
+
+figcaption{
+    display:inline-block ;
+}
+
+div{
+    margin: 10px;
+}
